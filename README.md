@@ -18,6 +18,7 @@
 | [1683-invalid-tweets](https://github.com/2303A52396/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/2303A52396/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/2303A52396/leetcode/tree/master/1729-find-followers-count) |
+| [1965-employees-with-missing-information](https://github.com/2303A52396/leetcode/tree/master/1965-employees-with-missing-information) |
 ## Array
 |  |
 | ------- |
