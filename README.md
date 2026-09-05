@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/2303A52396/leetcode/tree/master/0031-next-permutation) |
+| [0047-permutations-ii](https://github.com/2303A52396/leetcode/tree/master/0047-permutations-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/2303A52396/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/2303A52396/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/2303A52396/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/2303A52396/leetcode/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/2303A52396/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
