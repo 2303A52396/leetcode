@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/2303A52396/leetcode/tree/master/0031-next-permutation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/2303A52396/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/2303A52396/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/2303A52396/leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/2303A52396/leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
